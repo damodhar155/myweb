@@ -3,3 +3,6 @@ github
 maven
 tomcat
 jenkins
+sonarqube
+nexus
+ansible
